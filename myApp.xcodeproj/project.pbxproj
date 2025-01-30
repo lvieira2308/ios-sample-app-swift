@@ -6,6 +6,17 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B1CE2E4A2D4BCF9A0022192D /* myAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CE2E482D4BCF9A0022192D /* myAppApp.swift */; };
+		B1CE2E4B2D4BCF9A0022192D /* HeroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CE2E472D4BCF9A0022192D /* HeroView.swift */; };
+		B1CE2E4C2D4BCF9A0022192D /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CE2E462D4BCF9A0022192D /* ExploreView.swift */; };
+		B1CE2E4D2D4BCF9A0022192D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CE2E452D4BCF9A0022192D /* ContentView.swift */; };
+		B1CE2E4E2D4BCF9A0022192D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1CE2E442D4BCF9A0022192D /* Assets.xcassets */; };
+		B1CE2E4F2D4BCF9A0022192D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1CE2E422D4BCF9A0022192D /* Preview Assets.xcassets */; };
+		B1CE2E512D4BCFC10022192D /* Hero.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CE2E502D4BCFC10022192D /* Hero.swift */; };
+		B1CE2E532D4BD0CC0022192D /* HeroData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CE2E522D4BD0CC0022192D /* HeroData.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		B1CE2E172D4AF9260022192D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,14 +38,17 @@
 		B1CE2E062D4AF9240022192D /* myApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1CE2E162D4AF9260022192D /* myAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1CE2E202D4AF9260022192D /* myAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B1CE2E422D4BCF9A0022192D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B1CE2E442D4BCF9A0022192D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B1CE2E452D4BCF9A0022192D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B1CE2E462D4BCF9A0022192D /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
+		B1CE2E472D4BCF9A0022192D /* HeroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroView.swift; sourceTree = "<group>"; };
+		B1CE2E482D4BCF9A0022192D /* myAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myAppApp.swift; sourceTree = "<group>"; };
+		B1CE2E502D4BCFC10022192D /* Hero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero.swift; sourceTree = "<group>"; };
+		B1CE2E522D4BD0CC0022192D /* HeroData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B1CE2E082D4AF9240022192D /* myApp */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = myApp;
-			sourceTree = "<group>";
-		};
 		B1CE2E192D4AF9260022192D /* myAppTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = myAppTests;
@@ -75,7 +89,7 @@
 		B1CE2DFD2D4AF9240022192D = {
 			isa = PBXGroup;
 			children = (
-				B1CE2E082D4AF9240022192D /* myApp */,
+				B1CE2E492D4BCF9A0022192D /* myApp */,
 				B1CE2E192D4AF9260022192D /* myAppTests */,
 				B1CE2E232D4AF9260022192D /* myAppUITests */,
 				B1CE2E072D4AF9240022192D /* Products */,
@@ -92,6 +106,45 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		B1CE2E402D4BCF9A0022192D /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				B1CE2E502D4BCFC10022192D /* Hero.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		B1CE2E412D4BCF9A0022192D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B1CE2E522D4BD0CC0022192D /* HeroData.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B1CE2E432D4BCF9A0022192D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				B1CE2E422D4BCF9A0022192D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B1CE2E492D4BCF9A0022192D /* myApp */ = {
+			isa = PBXGroup;
+			children = (
+				B1CE2E402D4BCF9A0022192D /* Data */,
+				B1CE2E412D4BCF9A0022192D /* Models */,
+				B1CE2E432D4BCF9A0022192D /* Preview Content */,
+				B1CE2E442D4BCF9A0022192D /* Assets.xcassets */,
+				B1CE2E452D4BCF9A0022192D /* ContentView.swift */,
+				B1CE2E462D4BCF9A0022192D /* ExploreView.swift */,
+				B1CE2E472D4BCF9A0022192D /* HeroView.swift */,
+				B1CE2E482D4BCF9A0022192D /* myAppApp.swift */,
+			);
+			path = myApp;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -106,9 +159,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				B1CE2E082D4AF9240022192D /* myApp */,
 			);
 			name = myApp;
 			packageProductDependencies = (
@@ -212,6 +262,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1CE2E4E2D4BCF9A0022192D /* Assets.xcassets in Resources */,
+				B1CE2E4F2D4BCF9A0022192D /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,6 +288,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1CE2E512D4BCFC10022192D /* Hero.swift in Sources */,
+				B1CE2E4A2D4BCF9A0022192D /* myAppApp.swift in Sources */,
+				B1CE2E4B2D4BCF9A0022192D /* HeroView.swift in Sources */,
+				B1CE2E4C2D4BCF9A0022192D /* ExploreView.swift in Sources */,
+				B1CE2E4D2D4BCF9A0022192D /* ContentView.swift in Sources */,
+				B1CE2E532D4BD0CC0022192D /* HeroData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
