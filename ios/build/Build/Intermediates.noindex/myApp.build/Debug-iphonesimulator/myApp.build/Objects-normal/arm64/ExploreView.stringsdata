@@ -1,0 +1,32 @@
+{
+  "source": "/Users/luisvieira/ios/myApp/myApp/ExploreView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Choose your cat!",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose your cat",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Go to Hero Profile",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 44
+        }
+      }
+    ]
+  },
+  "version": 1
+}

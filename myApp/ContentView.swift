@@ -18,11 +18,13 @@ struct ContentView: View {
             ZStack {
                 Color(red: 230/255, green: 225/255, blue: 217/255)
                     .edgesIgnoringSafeArea(.all)
+
                 VStack {
                     Text("Hello, Space cat!")
                         .font(.system(size: 28, weight: .bold, design: .rounded))
                         .foregroundColor(.red)
                         .accessibilityIdentifier("spaceCatHelloText")
+                    
                     Image("spaceCat")
                         .resizable()
                         .scaledToFit()
@@ -45,7 +47,11 @@ struct ContentView: View {
                         .autocorrectionDisabled()
                         .padding(.horizontal, 40)
                         .accessibilityIdentifier("passwordField")
-                    
+                        .onSubmit {
+                            authenticateUser()
+                        }
+
+                    Spacer()
 
                     Button(action: {
                         authenticateUser()
@@ -59,9 +65,9 @@ struct ContentView: View {
                     }
                     .accessibilityIdentifier("goToExploreViewButton")
                     .padding()
-                    
-                    
                 }
+                .frame(maxHeight: .infinity, alignment: .bottom)
+                
                 .alert("Login Failed", isPresented: $showAlert) {
                     Button("OK", role: .cancel) { }
                         .accessibilityIdentifier("okAlertButton")

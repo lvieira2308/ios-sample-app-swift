@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myApp-master.dia",
+    "emit-module-dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myApp-master.swiftdeps"
+  },
+  "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/luisvieira/ios/myApp/myApp/ContentView.swift" : {
+    "const-values" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/luisvieira/ios/myApp/myApp/Data/Hero.swift" : {
+    "const-values" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/Hero.swiftconstvalues",
+    "dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/Hero.d",
+    "diagnostics" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/Hero.dia",
+    "index-unit-output-path" : "/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/Hero.o",
+    "llvm-bc" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/Hero.bc",
+    "object" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/Hero.o",
+    "swift-dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/Hero.swiftdeps",
+    "swiftmodule" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/Hero~partial.swiftmodule"
+  },
+  "/Users/luisvieira/ios/myApp/myApp/ExploreView.swift" : {
+    "const-values" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ExploreView.swiftconstvalues",
+    "dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ExploreView.d",
+    "diagnostics" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ExploreView.dia",
+    "index-unit-output-path" : "/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ExploreView.o",
+    "llvm-bc" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ExploreView.bc",
+    "object" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ExploreView.o",
+    "swift-dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ExploreView.swiftdeps",
+    "swiftmodule" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/ExploreView~partial.swiftmodule"
+  },
+  "/Users/luisvieira/ios/myApp/myApp/HeroView.swift" : {
+    "const-values" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroView.swiftconstvalues",
+    "dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroView.d",
+    "diagnostics" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroView.dia",
+    "index-unit-output-path" : "/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroView.o",
+    "llvm-bc" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroView.bc",
+    "object" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroView.o",
+    "swift-dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroView.swiftdeps",
+    "swiftmodule" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroView~partial.swiftmodule"
+  },
+  "/Users/luisvieira/ios/myApp/myApp/Models/HeroData.swift" : {
+    "const-values" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroData.swiftconstvalues",
+    "dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroData.d",
+    "diagnostics" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroData.dia",
+    "index-unit-output-path" : "/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroData.o",
+    "llvm-bc" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroData.bc",
+    "object" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroData.o",
+    "swift-dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroData.swiftdeps",
+    "swiftmodule" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/HeroData~partial.swiftmodule"
+  },
+  "/Users/luisvieira/ios/myApp/myApp/myAppApp.swift" : {
+    "const-values" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myAppApp.swiftconstvalues",
+    "dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myAppApp.d",
+    "diagnostics" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myAppApp.dia",
+    "index-unit-output-path" : "/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myAppApp.o",
+    "llvm-bc" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myAppApp.bc",
+    "object" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myAppApp.o",
+    "swift-dependencies" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myAppApp.swiftdeps",
+    "swiftmodule" : "/Users/luisvieira/ios/myApp/ios/build/Build/Intermediates.noindex/myApp.build/Debug-iphonesimulator/myApp.build/Objects-normal/arm64/myAppApp~partial.swiftmodule"
+  }
+}
